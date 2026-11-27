@@ -1,6 +1,6 @@
 # Retail Sales Performance & Business Intelligence Dashboard
 
-![Dashboard preview](dashboard.png.png)
+![Dashboard preview](dashboard.png(5).png)
 
 **Personal project** · Python · SQL · Power BI · DAX
 
