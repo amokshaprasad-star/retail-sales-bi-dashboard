@@ -1,6 +1,6 @@
 # Retail Sales Performance & Business Intelligence Dashboard
 
-![Dashboard preview](images/dashboard.png)
+![Dashboard preview](<dashboard.png(5).png>)
 
 ## Overview
 Analysis of multi-year retail sales data covering revenue, profitability, customer behaviour and regional trends.
@@ -8,7 +8,7 @@ Analysis of multi-year retail sales data covering revenue, profitability, custom
 **Tools:** Python, SQL, Power BI, DAX
 
 ## Dataset
-Multi-year retail sales data. [Add source and size]
+Multi-year retail sales data. 
 
 ## What I did
 - Cleaned the data with Pandas.
